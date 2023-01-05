@@ -69,6 +69,7 @@ npm install moment-react --dry-run
 Instalar version especifica
 ```sh
 npm install moment@0.15.0
+npm i moment@0.15.0 --dd # permite ver todo el output en la terminal
 ```
 
 Instalar version mas reciente
